@@ -1,0 +1,8 @@
+GIT INITIALISATION
+
+select a folder 
+step 1 ==> git init  
+step 2 ==> git add .
+for checking initialistion we can use ====> git status
+step 3 ==> git commit -m "message"
+for checking the new or old commit we can use ===> git log
