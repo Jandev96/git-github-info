@@ -8,3 +8,7 @@ step 3 ==> git commit -m "message"
 for checking the new or old commit we can use ===> git log
 for going to previous commit we can use ===> git checkout <commitid>
 then after that got to git hub ==> after creating new commit. commit with new master/main
+
+
+to clone git repository 
+git clone <repo url>
